@@ -71,7 +71,7 @@
         </a>
        <a href="TandC.aspx" class="w3-bar-item w3-button w3-padding-large w3-hover-black">
        
-            <p style="font:bold 18px arial">HOME</p>
+            <p style="font:bold 18px arial">Home</p>
 
         </a>
     </nav>
@@ -83,7 +83,7 @@
     </div>
      <div class="auto-style10" style="border-style:outset;border-width:2px">
 
-         <div style="margin-left:226px;"><h2>Bidder's Qualification</h2></div>
+         <div style="margin-left:226px;"><h2>Bidder's Qualifications</h2></div>
             <div style="margin-left:226px;">
              <table>
                 <tr>
